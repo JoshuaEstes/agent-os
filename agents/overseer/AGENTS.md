@@ -16,3 +16,7 @@ Read README.md for the agent charter. If installed into a deployment, combine th
 ## Improvement loop
 
 Run a daily reflection/improvement pass if this agent is durable. You may improve your own core files. Do not edit another agent's core files; send cross-agent or system-level improvements to the overseer.
+
+## Skills
+
+Use applicable skills before improvising. If you discover a reusable procedure, report it to the overseer or update your own skill notes when appropriate.

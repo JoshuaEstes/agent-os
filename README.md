@@ -9,6 +9,7 @@ It defines the durable parts of an agent organization:
 - core: operating principles and boundaries
 - workflows: loops for action, review, and improvement
 - agents: installable overseer, council, and expert agents
+- skills: reusable capability packages
 - adapters: runtime/provider-specific implementation notes
 - examples: sanitized deployment patterns
 
@@ -52,6 +53,7 @@ Expert agents own bounded work:
 - `core/` — principles and system model
 - `workflows/` — binding workflows
 - `agents/` — installable agent charters and workspace files
+- `skills/` — reusable capabilities agents can invoke
 - `adapters/` — provider/runtime profiles
 - `examples/` — sanitized deployment sketches
 - `templates/` — reusable document templates
@@ -84,4 +86,5 @@ Use tokens and placeholders instead.
 - [Council to expert example](examples/council-to-expert-e2e.md)
 - [Council operations](docs/16-council-operations.md)
 - [Workspace governance](docs/17-workspace-governance.md)
+- [Agent DNA](docs/18-agent-dna.md)
 
