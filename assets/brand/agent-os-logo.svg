@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="480" viewBox="0 0 1600 480" role="img" aria-labelledby="title desc">
+  <title id="title">Agent OS logo</title>
+  <desc id="desc">Agent OS wordmark with geometric overseer and specialist node mark.</desc>
+  <defs>
+    <linearGradient id="edge" x1="70" y1="52" x2="410" y2="428" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="480" rx="48" fill="#0b1020"/>
+  <g transform="translate(56 36) scale(.8)">
+    <path d="M256 54 417 147v218L256 458 95 365V147L256 54Z" fill="#111827" stroke="url(#edge)" stroke-width="20" stroke-linejoin="round"/>
+    <path d="M256 176v-58M256 336v58M187 216l-50-29M325 216l50-29M187 296l-50 29M325 296l50 29" stroke="#38bdf8" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="256" cy="256" r="64" fill="#0f172a" stroke="#f8fafc" stroke-width="16"/>
+    <circle cx="256" cy="118" r="28" fill="#22d3ee"/>
+    <circle cx="137" cy="187" r="28" fill="#22d3ee"/>
+    <circle cx="375" cy="187" r="28" fill="#22d3ee"/>
+    <circle cx="137" cy="325" r="28" fill="#8b5cf6"/>
+    <circle cx="375" cy="325" r="28" fill="#8b5cf6"/>
+    <circle cx="256" cy="394" r="28" fill="#8b5cf6"/>
+    <path d="M232 244h48M232 268h48" stroke="#f8fafc" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <text x="520" y="215" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="112" font-weight="800" letter-spacing="-3">Agent OS</text>
+  <text x="526" y="292" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="36" font-weight="560" letter-spacing="2">COORDINATE · ROUTE · EXECUTE</text>
+  <path d="M526 332h520" stroke="#22d3ee" stroke-width="6" stroke-linecap="round" opacity=".75"/>
+</svg>

@@ -1,5 +1,7 @@
 # Agent OS
 
+![Agent OS logo](assets/brand/agent-os-logo.svg)
+
 Agent OS is a docs-first operating system for working with AI agents as a coordinated team.
 
 It defines the durable parts of an agent organization:
