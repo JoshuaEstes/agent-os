@@ -1,14 +1,22 @@
 # Workflows
 
-Workflows describe repeatable action in Agent OS.
+A workflow is a loop.
 
-This folder replaces overloaded terms like workflow, loop, and procedure. A workflow may be a handoff, recurring cadence, publication gate, council review, or task lifecycle.
+At the basic level:
+
+```text
+action -> review -> improvement -> next action
+```
+
+Some workflows are small and informal. Others are recurring operating loops, handoff processes, council reviews, publication gates, or task lifecycles. The common shape is that action is followed by review and improvement.
 
 Each workflow should define:
 
 - when to use it
 - inputs
-- steps
+- action steps
+- review step
 - outputs
 - safety gates
 - verification
+- improvement path

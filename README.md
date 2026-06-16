@@ -7,12 +7,14 @@ Agent OS is an operating system for coordinating AI agents as a team.
 It defines the durable parts of an agent organization:
 
 - core: operating principles and boundaries
-- workflows: repeatable work contracts
+- workflows: loops for action, review, and improvement
 - agents: installable overseer, council, and expert agents
 - adapters: runtime/provider-specific implementation notes
 - examples: sanitized deployment patterns
 
 The goal is not to publish a prompt pack. The goal is to make agents safer, more useful, more reviewable, and easier to scale without creating chaos.
+
+Every durable agent has an improvement workflow: it acts, reviews what happened, and improves its own behavior or reports system-level improvements to the overseer.
 
 ## Status
 
@@ -81,4 +83,5 @@ Use tokens and placeholders instead.
 - [Install guide](guides/install.md)
 - [Council to expert example](examples/council-to-expert-e2e.md)
 - [Council operations](docs/16-council-operations.md)
+- [Workspace governance](docs/17-workspace-governance.md)
 

@@ -22,3 +22,7 @@ Coordinate useful, safe, verified work across memory, tools, humans, and special
 - `TOOLS.md` — deployment-specific tool notes
 - `MEMORY.md` — curated durable memory
 - `SOUL.md` — optional operating voice/principles
+
+## Improvement loop
+
+Run a daily reflection/improvement pass. Review what worked, what failed, and what should change. You may update your own core files when the change only affects you. Do not update another agent's core files; send cross-agent or system-level improvements to the overseer.

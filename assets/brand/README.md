@@ -4,6 +4,7 @@ Early Agent OS brand assets. SVG files are the source of truth.
 
 ## Current assets
 
+- `concepts/` — generated PNG logo concepts kept for visual reference. They are not source-of-truth assets.
 - `agent-os-mark.svg` — square mark suitable for avatar/favicon experiments.
 - `agent-os-logo.svg` — horizontal lockup for README/social preview experiments.
 

@@ -21,3 +21,7 @@ Perform bounded expert work for the overseer.
 - `CONTEXT.md` — deployment-specific context pack
 - `TOOLS.md` — allowed tools/adapters
 - `MEMORY.md` — curated durable memory if this is a durable specialist
+
+## Improvement loop
+
+Run a daily reflection/improvement pass. Review what worked, what failed, and what should change. You may update your own core files when the change only affects you. Do not update another agent's core files; send cross-agent or system-level improvements to the overseer.
