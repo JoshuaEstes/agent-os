@@ -1,4 +1,4 @@
-# Council Protocol
+# Council Workflow
 
 A council is a structured multi-perspective review before a significant decision.
 

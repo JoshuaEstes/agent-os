@@ -8,7 +8,7 @@ Use GitHub Discussions for:
 
 - questions about adopting Agent OS
 - implementation ideas
-- role/protocol design discussion
+- agent/workflow design discussion
 - examples from your own deployment
 - feedback on docs
 
@@ -24,7 +24,7 @@ Use GitHub Issues for:
 Recommended use:
 
 - **Q&A** — questions that need an answer
-- **Ideas** — proposals for new protocols, roles, loops, or adapters
+- **Ideas** — proposals for new workflows, agents, loops, or adapters
 - **General** — open-ended discussion
 - **Show and tell** — examples from real deployments, with private details removed
 - **Announcements** — maintainer updates
@@ -41,7 +41,7 @@ When sharing examples, replace real names, accounts, paths, and tokens with plac
 Maintainers should:
 
 - answer with the smallest useful guidance
-- distinguish doctrine from adapter-specific implementation
+- distinguish core from adapter-specific implementation
 - move concrete repo work into Issues when needed
 - ask for missing context only when it blocks a safe answer
 - avoid collecting private data in public threads
@@ -50,4 +50,4 @@ Maintainers should not:
 
 - ask users to expose secrets or private memory
 - recommend unsafe automation without permission gates
-- treat one runtime/provider as mandatory Agent OS doctrine
+- treat one runtime/provider as mandatory Agent OS core

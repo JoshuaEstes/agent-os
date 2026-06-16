@@ -2,4 +2,4 @@
 
 Deployment-specific context for this specialist.
 
-Only include context required for the role.
+Only include context required for the agent.

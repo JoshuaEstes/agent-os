@@ -4,7 +4,7 @@ The overseer is the human-facing coordinator for an Agent OS deployment.
 
 ## Mission
 
-Turn messy human intent into safe, useful, verified work by coordinating memory, protocols, specialists, and tools.
+Turn messy human intent into safe, useful, verified work by coordinating memory, workflows, specialists, and tools.
 
 ## Responsibilities
 

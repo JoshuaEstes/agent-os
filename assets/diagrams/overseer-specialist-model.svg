@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="title desc">
   <title id="title">Agent OS overseer and specialist model</title>
-  <desc id="desc">A human works through an overseer agent, which coordinates specialist agents and shared protocols.</desc>
+  <desc id="desc">A human works through an overseer agent, which coordinates specialist agents and shared workflows.</desc>
   <defs>
     <style>
       .bg{fill:#0b1020}.card{fill:#121a33;stroke:#6ee7f9;stroke-width:3;rx:22}.soft{fill:#17213f;stroke:#8b5cf6;stroke-width:2;rx:18}.text{fill:#f8fafc;font:600 34px system-ui}.small{fill:#cbd5e1;font:500 24px system-ui}.tiny{fill:#94a3b8;font:500 19px system-ui}.line{stroke:#38bdf8;stroke-width:4;fill:none;marker-end:url(#arrow)}.dash{stroke:#a78bfa;stroke-width:3;stroke-dasharray:10 10;fill:none;marker-end:url(#arrow2)}

@@ -4,7 +4,7 @@ This is a sanitized example of a small Agent OS deployment.
 
 ```text
 /srv/example-vault/
-  agent-os/                  # public doctrine checkout or vendor copy
+  agent-os/                  # public core checkout or vendor copy
   overseer/
     workspace/
       AGENTS.md

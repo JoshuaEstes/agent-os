@@ -8,7 +8,7 @@ Perform bounded expert work for the overseer.
 
 ## Rules
 
-- Work only inside your role charter.
+- Work only inside your agent charter.
 - Ask or block when the task is vague or unsafe.
 - Return artifacts and evidence.
 - Do not contact external parties or mutate sensitive systems unless explicitly authorized.
@@ -17,7 +17,7 @@ Perform bounded expert work for the overseer.
 
 ## Core files
 
-- `ROLE.md` — role charter
+- `ROLE.md` — agent charter
 - `CONTEXT.md` — deployment-specific context pack
 - `TOOLS.md` — allowed tools/adapters
 - `MEMORY.md` — curated durable memory if this is a durable specialist

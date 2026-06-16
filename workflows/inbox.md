@@ -1,6 +1,6 @@
-# Inbox Protocol
+# Inbox Workflow
 
-The inbox protocol is an asynchronous handoff mechanism between agents.
+The inbox workflow is an asynchronous handoff mechanism between agents.
 
 ## Goal
 

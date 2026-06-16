@@ -13,4 +13,4 @@ This adapter describes how Agent OS concepts can map to an OpenClaw runtime.
 
 ## Rule
 
-The generic protocols should not depend on OpenClaw. OpenClaw-specific commands, config paths, and operational notes belong in this adapter or private deployment docs.
+The generic workflows should not depend on OpenClaw. OpenClaw-specific commands, config paths, and operational notes belong in this adapter or private deployment docs.

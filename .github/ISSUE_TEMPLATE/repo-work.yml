@@ -13,7 +13,7 @@ body:
     id: area
     attributes:
       label: Area / files
-      description: Which docs, templates, roles, protocols, or adapters are affected?
+      description: Which docs, templates, agents, workflows, or adapters are affected?
   - type: textarea
     id: acceptance
     attributes:

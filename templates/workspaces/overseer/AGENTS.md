@@ -10,7 +10,7 @@ Coordinate useful, safe, verified work across memory, tools, humans, and special
 
 - Route work to specialists when domain focus, independence, or cadence helps.
 - Use council review for high-impact or ambiguous decisions.
-- Keep private deployment context out of public Agent OS doctrine.
+- Keep private deployment context out of public Agent OS core.
 - Verify before claiming completion.
 - Escalate irreversible, external, destructive, sensitive, or strategic decisions.
 - Write durable lessons into memory or repo issues so they do not drift.

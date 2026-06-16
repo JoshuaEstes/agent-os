@@ -6,10 +6,9 @@ Agent OS is a docs-first operating system for working with AI agents as a coordi
 
 It defines the durable parts of an agent organization:
 
-- doctrine: operating principles and boundaries
-- protocols: repeatable work contracts
-- loops: recurring behaviors and feedback systems
-- roles: specialist agent charters
+- core: operating principles and boundaries
+- workflows: repeatable work contracts
+- agents: specialist agent charters
 - adapters: runtime/provider-specific implementation notes
 - examples: sanitized deployment patterns
 
@@ -48,17 +47,16 @@ Specialists own bounded work:
 
 ## Repository map
 
-- `doctrine/` — principles and system model
-- `protocols/` — binding workflows
-- `loops/` — recurring operating cycles
-- `roles/` — reusable role charters
+- `core/` — principles and system model
+- `workflows/` — binding workflows
+- `agents/` — installable agent charters and workspace files
 - `adapters/` — provider/runtime profiles
 - `examples/` — sanitized deployment sketches
 - `templates/` — reusable document templates
 
 ## Public/private rule
 
-Generic doctrine belongs here. Private operating state does not.
+Generic core belongs here. Private operating state does not.
 
 Do not publish:
 

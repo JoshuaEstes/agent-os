@@ -1,6 +1,6 @@
 # Tokenization
 
-Agent OS uses tokens to keep generic doctrine portable and private values out of public files.
+Agent OS uses tokens to keep generic core portable and private values out of public files.
 
 ## Token format
 

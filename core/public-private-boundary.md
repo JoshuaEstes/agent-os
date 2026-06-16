@@ -1,14 +1,14 @@
 # Public / Private Boundary
 
-Agent OS separates reusable operating doctrine from private deployment state.
+Agent OS separates reusable operating core from private deployment state.
 
 ## Public layer
 
 Public Agent OS material may include:
 
 - generic operating principles
-- protocols and workflow contracts
-- role charters
+- workflows and workflow contracts
+- agent charters
 - adapter shapes
 - sanitized examples
 - templates
@@ -45,4 +45,4 @@ Instead:
 
 ## Heuristic
 
-If a document stops being useful after removing real names, real paths, and real accounts, it is not generic Agent OS doctrine.
+If a document stops being useful after removing real names, real paths, and real accounts, it is not generic Agent OS core.

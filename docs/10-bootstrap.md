@@ -28,7 +28,7 @@ Start with one safe loop, such as reflection or read-only task review.
 
 ## 5. Add specialists by bottleneck
 
-Do not create agents because a role sounds useful. Create them when repeated work or independent review creates a real bottleneck.
+Do not create agents because a category sounds useful. Create them when repeated work, independent review, or domain ownership creates a real bottleneck.
 
 ## 6. Verify
 

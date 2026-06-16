@@ -13,7 +13,7 @@ Responsibilities:
 - route work to specialists
 - synthesize specialist outputs
 - enforce safety and permission gates
-- keep durable memory and protocols current
+- keep durable memory and workflows current
 - escalate decisions that require human judgment
 
 The overseer should not do every task personally. It should own the system, not hoard the work.

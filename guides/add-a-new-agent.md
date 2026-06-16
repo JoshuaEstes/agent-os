@@ -1,16 +1,16 @@
 # Playbook: Add a New Agent
 
-Use this when adding a durable specialist or recurring on-demand role.
+Use this when adding a durable specialist or recurring on-demand agent.
 
 ## 1. Confirm the bottleneck
 
 Name the repeated pain that justifies the agent.
 
-Do not add an agent just because the role is imaginable.
+Do not add an agent just because the category is imaginable.
 
 ## 2. Write the charter
 
-Use `templates/role-charter.md`.
+Use `templates/agent-charter.md`.
 
 Minimum required fields:
 
@@ -24,9 +24,9 @@ Minimum required fields:
 
 ## 3. Choose durable vs on-demand
 
-Use durable when the role needs memory, cadence, or long-term ownership.
+Use durable when the agent needs memory, cadence, or long-term ownership.
 
-Use on-demand when the role is occasional, narrow, or review-only.
+Use on-demand when the agent is occasional, narrow, or review-only.
 
 ## 4. Install safely
 

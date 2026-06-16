@@ -1,4 +1,4 @@
-# Expert Handoff Protocol
+# Expert Handoff Workflow
 
 Expert handoff turns scoped work into a specialist task.
 
@@ -7,7 +7,7 @@ Expert handoff turns scoped work into a specialist task.
 ```yaml
 id: <task-id>
 from: <overseer>
-to: <expert-role>
+to: <expert-agent>
 status: open
 goal: <what outcome is needed>
 context: <minimum necessary context>

@@ -6,7 +6,7 @@ This roadmap tracks launch-blocking work until GitHub Issues automation has perm
 
 ### 1. Prevent vault/repo drift
 
-**Goal:** Make the repo the canonical publishable source of truth for reusable Agent OS doctrine, templates, protocols, adapters, and install patterns.
+**Goal:** Make the repo the canonical publishable source of truth for reusable Agent OS core, templates, workflows, adapters, and install patterns.
 
 **Acceptance criteria:**
 
@@ -15,15 +15,15 @@ This roadmap tracks launch-blocking work until GitHub Issues automation has perm
 - A recurring audit/check is defined.
 - Repo docs explain Issues vs Discussions usage.
 
-### 2. Build installable role workspace templates
+### 2. Build installable agent workspace templates
 
-**Goal:** Make every role installable with core workspace files, not just a role description.
+**Goal:** Make every agent installable with core workspace files, not just a charter document.
 
 **Acceptance criteria:**
 
 - Overseer template includes `AGENTS.md`, `IDENTITY.md`, `USER.md`, `TOOLS.md`, `MEMORY.md`, optional `SOUL.md`.
 - Specialist template includes `AGENTS.md`, `ROLE.md`, `CONTEXT.md`, `TOOLS.md`, `MEMORY.md`.
-- Scout, Product, Engineer, Librarian, Finance, Growth, and Reviewer have concrete role packs or generated examples.
+- Scout, Product, Engineer, Librarian, Finance, Growth, and Reviewer have concrete agent packs or generated examples.
 - Templates use placeholders only.
 
 ### 3. Implement council-to-expert operating workflow
@@ -32,8 +32,8 @@ This roadmap tracks launch-blocking work until GitHub Issues automation has perm
 
 **Acceptance criteria:**
 
-- Council protocol exists with advisor response and synthesis formats.
-- Expert handoff protocol exists with handoff packet schema.
+- Council workflow exists with advisor response and synthesis formats.
+- Expert handoff workflow exists with handoff packet schema.
 - Overseer docs say when to use council vs expert vs direct execution.
 - Example end-to-end workflow is added.
 

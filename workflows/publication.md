@@ -1,4 +1,4 @@
-# Publication Protocol
+# Publication Workflow
 
 Use this before making Agent OS material public.
 
@@ -12,7 +12,7 @@ Use this before making Agent OS material public.
 - No private emails, phone numbers, account IDs, or chat IDs.
 - No private operational logs.
 - No generated-by-AI attribution or unwanted authorship signals.
-- Runtime-specific content is in `adapters/`, not generic doctrine.
+- Runtime-specific content is in `adapters/`, not generic core.
 - Examples use fake data.
 - License is chosen.
 - Repository owner/account is confirmed.

@@ -2,7 +2,7 @@
 
 This repository is the publishable source of truth for Agent OS.
 
-The private working vault may contain drafts, operational logs, private deployment notes, and experiments. Those are allowed to diverge temporarily. But any reusable Agent OS doctrine, protocol, role, template, adapter, or install pattern that we intend others to use must be promoted into this repo.
+The private working vault may contain drafts, operational logs, private deployment notes, and experiments. Those are allowed to diverge temporarily. But any reusable Agent OS core, workflow, agent template, adapter, or install pattern that we intend others to use must be promoted into this repo.
 
 ## No-drift rule
 

@@ -18,7 +18,7 @@ Search indexes, transcript chunks, embeddings, and other runtime-managed recall 
 
 ### Shared memory
 
-Cross-agent facts and protocols that multiple agents may safely read.
+Cross-agent facts and workflows that multiple agents may safely read.
 
 ### Private memory
 
@@ -30,5 +30,5 @@ Agent-specific or human-specific context that should not be shared broadly.
 - Keep secrets out of memory files unless explicitly designed for secrets.
 - Prefer short curated entries over dumping transcripts.
 - Cite source files when useful.
-- Promote lessons into protocol when they affect future behavior.
-- If a workflow changes, update the agents or roles affected by that workflow.
+- Promote lessons into workflow when they affect future behavior.
+- If a workflow changes, update the agents or agents affected by that workflow.
