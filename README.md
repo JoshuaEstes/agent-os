@@ -80,4 +80,5 @@ Use tokens and placeholders instead.
 
 - [Install guide](guides/install.md)
 - [Council to expert example](examples/council-to-expert-e2e.md)
+- [Council operations](docs/16-council-operations.md)
 
