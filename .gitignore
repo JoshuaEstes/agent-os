@@ -7,3 +7,5 @@ vendor/
 .cache/
 .tmp/
 *.log
+
+.publication-denylist

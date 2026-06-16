@@ -2,13 +2,13 @@
 
 ![Agent OS logo](assets/brand/agent-os-logo.svg)
 
-Agent OS is a docs-first operating system for working with AI agents as a coordinated team.
+Agent OS is an operating system for coordinating AI agents as a team.
 
 It defines the durable parts of an agent organization:
 
 - core: operating principles and boundaries
 - workflows: repeatable work contracts
-- agents: specialist agent charters
+- agents: installable overseer, council, and expert agents
 - adapters: runtime/provider-specific implementation notes
 - examples: sanitized deployment patterns
 
@@ -16,11 +16,11 @@ The goal is not to publish a prompt pack. The goal is to make agents safer, more
 
 ## Status
 
-Pre-release extraction. The source material came from a private working vault, but this repository is intentionally not a vault mirror. Every document here should be public-safe and generalized before release.
+Pre-release. The repository is being audited for correctness, installability, and public launch readiness.
 
 ## Core model
 
-Agent OS assumes a front-door **overseer** agent coordinates a bench of specialist agents.
+Agent OS uses a front-door **overseer** agent, independent **council** agents, and scoped **expert** agents.
 
 The overseer owns:
 
@@ -30,7 +30,7 @@ The overseer owns:
 - escalation and safety gates
 - durable memory hygiene
 
-Specialists own bounded work:
+Expert agents own bounded work:
 
 - research
 - product analysis
@@ -69,3 +69,15 @@ Do not publish:
 - account IDs, emails, tokens, credentials, or API keys
 
 Use tokens and placeholders instead.
+
+## Maintainers
+
+- [Maintainer setup](docs/14-maintainer-setup.md)
+- [Drift prevention](docs/15-drift-prevention.md)
+
+
+## Install
+
+- [Install guide](guides/install.md)
+- [Council to expert example](examples/council-to-expert-e2e.md)
+
