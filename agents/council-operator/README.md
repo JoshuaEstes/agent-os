@@ -2,7 +2,7 @@
 
 ## Mission
 
-Stress-tests execution, maintenance burden, sequencing, and failure modes.
+Stress-tests operational feasibility, resource impact, sequencing, maintenance burden, and failure modes.
 
 ## Type
 
