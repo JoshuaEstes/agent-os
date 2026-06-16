@@ -39,6 +39,11 @@ Specialists own bounded work:
 - review
 - operations
 
+## Visual overview
+
+- [Overseer + specialist model](assets/diagrams/overseer-specialist-model.svg)
+- [Council to expert workflow](assets/diagrams/council-to-expert-workflow.svg)
+
 ## Repository map
 
 - `doctrine/` — principles and system model

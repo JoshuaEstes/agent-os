@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850" viewBox="0 0 1400 850" role="img" aria-labelledby="title desc">
+  <title id="title">Agent OS overseer and specialist model</title>
+  <desc id="desc">A human works through an overseer agent, which coordinates specialist agents and shared protocols.</desc>
+  <defs>
+    <style>
+      .bg{fill:#0b1020}.card{fill:#121a33;stroke:#6ee7f9;stroke-width:3;rx:22}.soft{fill:#17213f;stroke:#8b5cf6;stroke-width:2;rx:18}.text{fill:#f8fafc;font:600 34px system-ui}.small{fill:#cbd5e1;font:500 24px system-ui}.tiny{fill:#94a3b8;font:500 19px system-ui}.line{stroke:#38bdf8;stroke-width:4;fill:none;marker-end:url(#arrow)}.dash{stroke:#a78bfa;stroke-width:3;stroke-dasharray:10 10;fill:none;marker-end:url(#arrow2)}
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#38bdf8"/></marker>
+    <marker id="arrow2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#a78bfa"/></marker>
+  </defs>
+  <rect class="bg" width="1400" height="850"/>
+  <text class="text" x="700" y="70" text-anchor="middle">Agent OS: Overseer + Specialist Model</text>
+  <rect class="card" x="90" y="160" width="250" height="130"/>
+  <text class="text" x="215" y="215" text-anchor="middle">Human</text>
+  <text class="small" x="215" y="252" text-anchor="middle">intent + decisions</text>
+  <rect class="card" x="530" y="135" width="340" height="180"/>
+  <text class="text" x="700" y="200" text-anchor="middle">Overseer</text>
+  <text class="small" x="700" y="240" text-anchor="middle">triage · routing · synthesis</text>
+  <text class="tiny" x="700" y="275" text-anchor="middle">memory + safety + escalation</text>
+  <path class="line" d="M340 225 C420 225 450 225 530 225"/>
+  <rect class="soft" x="160" y="520" width="210" height="105"/>
+  <text class="small" x="265" y="570" text-anchor="middle">Scout</text>
+  <text class="tiny" x="265" y="598" text-anchor="middle">research</text>
+  <rect class="soft" x="430" y="520" width="210" height="105"/>
+  <text class="small" x="535" y="570" text-anchor="middle">Product</text>
+  <text class="tiny" x="535" y="598" text-anchor="middle">scope</text>
+  <rect class="soft" x="700" y="520" width="210" height="105"/>
+  <text class="small" x="805" y="570" text-anchor="middle">Engineer</text>
+  <text class="tiny" x="805" y="598" text-anchor="middle">implementation</text>
+  <rect class="soft" x="970" y="520" width="210" height="105"/>
+  <text class="small" x="1075" y="570" text-anchor="middle">Reviewer</text>
+  <text class="tiny" x="1075" y="598" text-anchor="middle">quality checks</text>
+  <path class="line" d="M650 315 C540 400 330 425 265 520"/>
+  <path class="line" d="M685 315 C620 405 570 435 535 520"/>
+  <path class="line" d="M735 315 C760 400 790 435 805 520"/>
+  <path class="line" d="M780 315 C915 405 1030 430 1075 520"/>
+  <rect class="card" x="1010" y="160" width="280" height="130"/>
+  <text class="small" x="1150" y="215" text-anchor="middle">Protocols</text>
+  <text class="tiny" x="1150" y="248" text-anchor="middle">inbox · tasks · council</text>
+  <path class="dash" d="M870 225 C930 225 960 225 1010 225"/>
+  <rect class="card" x="420" y="700" width="560" height="80"/>
+  <text class="small" x="700" y="750" text-anchor="middle">Specialists return artifacts + evidence; overseer synthesizes.</text>
+</svg>
