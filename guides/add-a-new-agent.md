@@ -6,7 +6,7 @@ Use this when adding a durable specialist or recurring on-demand agent.
 
 Name the repeated pain that justifies the agent.
 
-Do not add an agent just because the category is imaginable.
+Do not add an agent just because the category is imaginable. Start broad, then specialize only after evidence. For example, prefer one generic `engineer` before creating `php-engineer`, `symfony-engineer`, or other framework-specific agents; split only when repeated work shows a distinct memory, tooling, or review bottleneck.
 
 ## 2. Write the charter
 

@@ -30,4 +30,5 @@ deadline: <optional>
 - Experts should not accept vague tasks.
 - Experts should not expand scope silently.
 - Experts should return evidence, not just conclusions.
+- Implementation experts should include verification evidence and review needs in their handoff.
 - Overseers synthesize expert outputs before presenting a final recommendation.
